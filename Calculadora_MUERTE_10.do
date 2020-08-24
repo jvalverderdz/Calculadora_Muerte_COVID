@@ -4,7 +4,7 @@ Calculadora de la MUERTE
 Autor: Javier Valverde
 Versión: 1.0
 Insumos:
-	-Conexión a Internet
+	-200822COVID19MEXICO.csv
 
 Este do calcula tu probabilidad de muerte si te da Covid, basado en un modelo logístico estimado
 con los datos de contagios de Covid de la Secretaría de Salud de México
